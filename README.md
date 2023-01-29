@@ -7,4 +7,7 @@ Historical weather around Szeged city in Hungary - from 2006 to 2016.
 
 ### Dataset: [weatherHistory.csv](https://github.com/mrMichalR/LinearRegression/raw/main/weatherHistory.csv)
 
-
+### Used methods:
+- 
+- 
+- 
