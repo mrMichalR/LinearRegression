@@ -19,7 +19,7 @@ Data available in the hourly response:
 
 ### Kaggle (original dataset): https://www.kaggle.com/datasets/budincsevity/szeged-weather
 
-### Dataset: [weatherHistory.csv](https://github.com/mrMichalR/LinearRegression/weather_in_szeged/raw/main/weatherHistory.csv)
+### Dataset: [weatherHistory.csv](https://raw.githubusercontent.com/mrMichalR/LinearRegression/main/weather_in_szeged/weatherHistory.csv)
 
 ### Used methods:
 - 
