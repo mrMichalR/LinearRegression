@@ -1,10 +1,23 @@
-# LinearRegression
+# Linear regression-weather in Szeged
 
 ## **About Dataset**
 
-Historical weather around Szeged city in Hungary - from 2006 to 2016.
+The CSV file includes a hourly/daily summary for Szeged, Hungary area, between 2006 and 2016.
 
-### Kaggle: https://www.kaggle.com/datasets/budincsevity/szeged-weather 
+Data available in the hourly response:
+- time
+- summary
+- precipType
+- temperature
+- apparentTemperature
+- humidity
+- windSpeed
+- windBearing
+- visibility
+- loudCover
+- pressure
+
+### Kaggle (original dataset): https://www.kaggle.com/datasets/budincsevity/szeged-weather
 
 ### Dataset: [weatherHistory.csv](https://github.com/mrMichalR/LinearRegression/raw/main/weatherHistory.csv)
 
